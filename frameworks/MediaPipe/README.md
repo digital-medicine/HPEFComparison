@@ -1,0 +1,1 @@
+`MediaPipe_Pose_Landmarker.py` is adapted from https://github.com/google-ai-edge/mediapipe-samples/blob/54e3a8e1592bf83d0dc09662c5b68b33df8820d3/examples/pose_landmarker/python/%5BMediaPipe_Python_Tasks%5D_Pose_Landmarker.ipynb. All modifications are marked with a "Changed" comment preceding the relevant sections.

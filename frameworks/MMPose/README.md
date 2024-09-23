@@ -1,0 +1,1 @@
+`inferencer_demo.py` is taken from https://github.com/open-mmlab/mmpose/blob/6d10b2ec81da7e252016b3154c7fdb46c403ecd8/demo/inferencer_demo.py. No changes made.

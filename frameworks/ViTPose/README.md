@@ -1,0 +1,1 @@
+`body3d_two_stage_video_demo.py` is adapted from https://github.com/ViTAE-Transformer/ViTPose/blob/33f49cf1f24077ec175cef0990bd25d2746c4898/demo/body3d_two_stage_video_demo.py. All modifications are marked with a "Changed" comment preceding the relevant sections.

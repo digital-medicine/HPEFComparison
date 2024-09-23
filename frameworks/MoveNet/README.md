@@ -1,0 +1,1 @@
+`movenet.py` is adapted from https://github.com/tensorflow/docs/blob/15f45f8ef3e9307fc980a4c6e2c2d690cf4b4130/site/en/hub/tutorials/movenet.ipynb. All modifications are marked with a "Changed" comment preceding the relevant sections.

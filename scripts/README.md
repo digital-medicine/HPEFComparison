@@ -1,0 +1,10 @@
+- `01_mov_to_mp4.ipynb`: Convert all .MOV files to .MP4 files
+- `02_create_Vicon_benchmark_angles_for_cutting.ipynb`: Create time series with Vicon benchmark angles
+- Cut videos and Vicon benchmark angles with any video cut tool, e.g. labelstudio.
+- `03_cut_videos.ipynb`: Cut videos based on start and end times in subdir+'_cut.json'
+- Run the framework script in `../frameworks` on the cut videos.
+- `04_preprocess_columns.ipynb`: Harmonize header names and add a third dimension for 2D frameworks
+- `05_rearrange_directories.ipynb`: Rearrange directories to match the expected order for later scripts
+- `06_framework_vs_vicon_preprocessing.ipynb`: Merge Vicon and framework data into one file per framework
+- `07_best_shifts.ipynb`: Calculate median shift value per video
+- `08_framework_vs_vicon.ipynb`: Compare a framework with Vicon

@@ -1,0 +1,1 @@
+`pose-estimate.py` is adapted from https://github.com/RizwanMunawar/yolov7-pose-estimation/blob/60e65b2ec57e54c05f63c3917efe48db06ef0c71/pose-estimate.py. All modifications are marked with a "Changed" comment preceding the relevant sections.

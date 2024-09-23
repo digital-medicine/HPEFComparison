@@ -1,0 +1,145 @@
+,Subject,Exercise,View,best_shift
+0,1,Front lunge,Frontal,51
+1,1,Front lunge,Side,
+2,1,Jumping jacks,Frontal,11
+3,1,Jumping jacks,Side,
+4,1,Lateral arm raise,Frontal,6
+5,1,Lateral arm raise,Side,
+6,1,Leg extension crunch,Frontal,0
+7,1,Leg extension crunch,Side,
+8,1,Reverse fly,Frontal,22
+9,1,Reverse fly,Side,
+10,1,Side squat,Frontal,3
+11,1,Side squat,Side,
+12,1,Single leg deadlift,Frontal,36
+13,1,Single leg deadlift,Side,
+14,1,Squat,Frontal,18
+15,1,Squat,Side,
+16,2,Front lunge,Frontal,59
+17,2,Front lunge,Side,-18
+18,2,Jumping jacks,Frontal,10
+19,2,Jumping jacks,Side,10
+20,2,Lateral arm raise,Frontal,1
+21,2,Lateral arm raise,Side,-1
+22,2,Leg extension crunch,Frontal,-30
+23,2,Leg extension crunch,Side,11
+24,2,Reverse fly,Frontal,
+25,2,Reverse fly,Side,-11
+26,2,Side squat,Frontal,0
+27,2,Side squat,Side,0
+28,2,Single leg deadlift,Frontal,-17
+29,2,Single leg deadlift,Side,-17
+30,2,Squat,Frontal,5
+31,2,Squat,Side,0
+32,3,Front lunge,Frontal,2
+33,3,Front lunge,Side,-2
+34,3,Jumping jacks,Frontal,7
+35,3,Jumping jacks,Side,11
+36,3,Lateral arm raise,Frontal,7
+37,3,Lateral arm raise,Side,7
+38,3,Leg extension crunch,Frontal,-22
+39,3,Leg extension crunch,Side,-22
+40,3,Reverse fly,Frontal,56
+41,3,Reverse fly,Side,3
+42,3,Side squat,Frontal,-57
+43,3,Side squat,Side,-17
+44,3,Single leg deadlift,Frontal,6
+45,3,Single leg deadlift,Side,-1
+46,3,Squat,Frontal,1
+47,3,Squat,Side,3
+48,4,Front lunge,Frontal,-9
+49,4,Front lunge,Side,-11
+50,4,Jumping jacks,Frontal,1
+51,4,Jumping jacks,Side,6
+52,4,Lateral arm raise,Frontal,4
+53,4,Lateral arm raise,Side,2
+54,4,Leg extension crunch,Frontal,-42
+55,4,Leg extension crunch,Side,-21
+56,4,Reverse fly,Frontal,-2
+57,4,Reverse fly,Side,2
+58,4,Side squat,Frontal,-1
+59,4,Side squat,Side,2
+60,4,Single leg deadlift,Frontal,-3
+61,4,Single leg deadlift,Side,1
+62,4,Squat,Frontal,-2
+63,4,Squat,Side,-4
+64,6,Front lunge,Frontal,6
+65,6,Front lunge,Side,9
+66,6,Jumping jacks,Frontal,5
+67,6,Jumping jacks,Side,-32
+68,6,Lateral arm raise,Frontal,6
+69,6,Lateral arm raise,Side,5
+70,6,Leg extension crunch,Frontal,-13
+71,6,Leg extension crunch,Side,-7
+72,6,Reverse fly,Frontal,7
+73,6,Reverse fly,Side,8
+74,6,Side squat,Frontal,-3
+75,6,Side squat,Side,-4
+76,6,Single leg deadlift,Frontal,-11
+77,6,Single leg deadlift,Side,-12
+78,6,Squat,Frontal,13
+79,6,Squat,Side,2
+80,7,Front lunge,Frontal,1
+81,7,Front lunge,Side,-2
+82,7,Jumping jacks,Frontal,6
+83,7,Jumping jacks,Side,8
+84,7,Lateral arm raise,Frontal,15
+85,7,Lateral arm raise,Side,7
+86,7,Leg extension crunch,Frontal,12
+87,7,Leg extension crunch,Side,0
+88,7,Reverse fly,Frontal,5
+89,7,Reverse fly,Side,4
+90,7,Side squat,Frontal,3
+91,7,Side squat,Side,-2
+92,7,Single leg deadlift,Frontal,
+93,7,Single leg deadlift,Side,
+94,7,Squat,Frontal,-4
+95,7,Squat,Side,0
+96,8,Front lunge,Frontal,13
+97,8,Front lunge,Side,21
+98,8,Jumping jacks,Frontal,9
+99,8,Jumping jacks,Side,7
+100,8,Lateral arm raise,Frontal,54
+101,8,Lateral arm raise,Side,52
+102,8,Leg extension crunch,Frontal,5
+103,8,Leg extension crunch,Side,-60
+104,8,Reverse fly,Frontal,-3
+105,8,Reverse fly,Side,5
+106,8,Side squat,Frontal,-2
+107,8,Side squat,Side,0
+108,8,Single leg deadlift,Frontal,-45
+109,8,Single leg deadlift,Side,-34
+110,8,Squat,Frontal,23
+111,8,Squat,Side,44
+112,9,Front lunge,Frontal,9
+113,9,Front lunge,Side,5
+114,9,Jumping jacks,Frontal,7
+115,9,Jumping jacks,Side,17
+116,9,Lateral arm raise,Frontal,11
+117,9,Lateral arm raise,Side,4
+118,9,Leg extension crunch,Frontal,-30
+119,9,Leg extension crunch,Side,-16
+120,9,Reverse fly,Frontal,-31
+121,9,Reverse fly,Side,3
+122,9,Side squat,Frontal,-2
+123,9,Side squat,Side,2
+124,9,Single leg deadlift,Frontal,19
+125,9,Single leg deadlift,Side,10
+126,9,Squat,Frontal,-13
+127,9,Squat,Side,-16
+128,10,Front lunge,Frontal,8
+129,10,Front lunge,Side,3
+130,10,Jumping jacks,Frontal,5
+131,10,Jumping jacks,Side,4
+132,10,Lateral arm raise,Frontal,7
+133,10,Lateral arm raise,Side,14
+134,10,Leg extension crunch,Frontal,10
+135,10,Leg extension crunch,Side,0
+136,10,Reverse fly,Frontal,7
+137,10,Reverse fly,Side,5
+138,10,Side squat,Frontal,0
+139,10,Side squat,Side,-5
+140,10,Single leg deadlift,Frontal,20
+141,10,Single leg deadlift,Side,35
+142,10,Squat,Frontal,-10
+143,10,Squat,Side,-10

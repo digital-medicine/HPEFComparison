@@ -1,0 +1,3 @@
+`demo.py` is adapted from https://github.com/facebookresearch/detectron2/blob/42ef395311e8f4d9ff189416ba89f7c9c3d07258/demo/demo.py. All modifications are marked with a "Changed" comment preceding the relevant sections.
+
+`predictor.py` is adapted from https://github.com/facebookresearch/detectron2/blob/42ef395311e8f4d9ff189416ba89f7c9c3d07258/demo/predictor.py. All modifications are marked with a "Changed" comment preceding the relevant sections.

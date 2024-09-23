@@ -1,0 +1,1 @@
+`vis.py` is adapted from https://github.com/Vegetebird/MHFormer/blob/c014cc51a0410579cdd919cabb9e25ef1a93ddf4/demo/vis.py. All modifications are marked with a "Changed" comment preceding the relevant sections.

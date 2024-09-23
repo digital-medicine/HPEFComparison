@@ -1,0 +1,1 @@
+`rtmo_demo.py` is adapted from https://github.com/Tau-J/rtmlib/blob/e67c0e8f161195419464fffa99913b4193420dcd/rtmo_demo.py. All modifications are marked with a "Changed" comment preceding the relevant sections.

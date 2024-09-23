@@ -1,0 +1,1 @@
+`metrabs.py` is adapted from https://github.com/isarandi/metrabs/blob/723a46545f68b9ea3edc6b934539ecfcdf4d19a0/demos/demo_video.py. All modifications are marked with a "Changed" comment preceding the relevant sections.

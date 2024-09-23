@@ -1,0 +1,1 @@
+`vis.py` is adapted from https://github.com/QitaoZhao/PoseFormerV2/blob/b843ae60015fac4ccf2277c0e48f39c86ff270ff/demo/vis.py. All modifications are marked with a "Changed" comment preceding the relevant sections.

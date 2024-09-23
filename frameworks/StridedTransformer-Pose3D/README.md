@@ -1,0 +1,1 @@
+`vis.py` is adapted from https://github.com/Vegetebird/StridedTransformer-Pose3D/blob/6d30838f47d7d10c8aa1dc6db5f350bc8bdddb26/demo/vis.py. All modifications are marked with a "Changed" comment preceding the relevant sections.
